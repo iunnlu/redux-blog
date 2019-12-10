@@ -1,4 +1,5 @@
 import React from 'react';
+import UserHeader from './UserHeader';
 import { connect } from 'react-redux';
 import { fetchPosts } from '../actions';
 
